@@ -19,6 +19,7 @@ The following is an overview of links/articles commonly referenced during the SE
 
 ## Section 2: Payload Delivery and Execution
 * [Fenrir - NAC bypass - Valérien Legrand](https://hackinparis.com/data/slides/2017/2017_Legrand_Valerian_802.1x_Network_Access_Control_and_Bypass_Techniques.pdf)
+* [Hackers use BadUSB to target defense firms with ransomware](https://www.bleepingcomputer.com/news/security/fbi-hackers-use-badusb-to-target-defense-firms-with-ransomware/)
 * [YARA Rules Github](https://github.com/Yara-Rules/rules)
 * [InsecurePowerShell - PowerShell without System.Management.Automation.dll](https://cobbr.io/InsecurePowershell-PowerShell-Without-System-Management-Automation.html)
 * [Ultimate Applocker bypass list](https://github.com/api0cradle/UltimateAppLockerByPassList)
